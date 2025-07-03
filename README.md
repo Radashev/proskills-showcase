@@ -8,7 +8,12 @@ This is a private fullstack application project. I was solely responsible for bu
 
 ## 🧠 EC2 Manual Deployment Architecture
 
-📈 [Open Diagram in Draw.io Viewer](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/vasylradashev/proskills-showcase/main/docs/architecture-ec2.drawio.png)
+[🔗 Open EC2 Diagram in Draw.io](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/Radashev/proskills-showcase/main/docs/architecture-ec2.drawio)
+
+
+
+
+
 
 <details>
 <summary>📘 Show Description</summary>
@@ -99,7 +104,6 @@ Each member was responsible for a real-world feature. My role focused entirely o
 
 - 👤 **Name:** Vasyl Radashev  
 - 🛠️ **Role:** DevOps Engineer (Infrastructure & CI/CD)  
-- 🔗 **GitHub:** [Radashev](https://github.com/Radashev)  
 - ✉️ **Email:** [vasiliyradashev24@gmail.com](mailto:vasiliyradashev24@gmail.com)
 
 ---
