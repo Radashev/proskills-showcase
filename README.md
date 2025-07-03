@@ -8,7 +8,8 @@ This is a private fullstack application project. I was solely responsible for bu
 
 ## 🧠 EC2 Manual Deployment Architecture
 
-[🔗 Open EC2 Diagram in Draw.io](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/Radashev/proskills-showcase/main/docs/architecture-ec2.drawio)
+![EC2 Diagram](https://raw.githubusercontent.com/Radashev/proskills-showcase/main/docs/architecture-ec2.drawio.png)
+
 
 
 
